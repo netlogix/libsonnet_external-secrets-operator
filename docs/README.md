@@ -2,4 +2,4 @@
 
 This library is generated with [`k8s`](https://github.com/netlogix/k8s-gen).
 
-[Docs](https://gh.netlogix.de/libsonnet_external-secrets-operator)
+- [2.1.0](2.1.0/README.md)
